@@ -33,8 +33,8 @@ public class activity_main extends AppCompatActivity{
     ImageView tvImage;
 
     private final String url = "https://api.openweathermap.org/data/2.5/weather";
-    private final String API_KEY = "f4b50b1deba45469cbf0ce500a644cef";
-    DecimalFormat df = new DecimalFormat("#.##");
+    private final String API_KEY = "YOUR_API_KEY";
+    DecimalFormat df = new DecimalFormat("#.##"); 
 
     //private AdView mAdView;
 
